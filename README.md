@@ -1,4 +1,4 @@
-# Test_automation_using_Selenium
+# Description of all test cases included in this repository
 
 
 opis w przygotowaniu
